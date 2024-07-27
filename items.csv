@@ -1,35 +1,35 @@
-Area: Lumbridge,1,progression
-Area: Lumbridge Swamp,1,progression
-Area: HAM Hideout,1,progression
-Area: Lumbridge Farms,1,progression
-Area: South of Varrock,1,progression
-Area: East Varrock,1,progression
-Area: Central Varrock,1,progression
-Area: Varrock Palace,1,progression
-Area: West Varrock,1,progression
-Area: Edgeville,1,progression
-Area: Barbarian Village,1,progression
-Area: Draynor Manor,1,progression
-Area: Falador,1,progression
-Area: Dwarven Mines,1,progression
-Area: Ice Mountain,1,progression
-Area: Monastery,1,progression
-Area: Falador Farms,1,progression
-Area: Port Sarim,1,progression
-Area: Mudskipper Point,1,progression
-Area: Karamja,1,progression
-Area: Crandor,1,progression
-Area: Rimmington,1,progression
-Area: Crafting Guild,1,progression
-Area: Draynor Village,1,progression
-Area: Wizard Tower,1,progression
-Area: Corsair Cove,1,progression
-Area: Al Kharid,1,progression
-Area: Citharede Abbey,1,progression
-Area: Wilderness,1,progression
-Progressive Armor,6,progression
-Progressive Weapons,6,progression
-Progressive Tools,6,useful
-Progressive Ranged Weapons,3,useful
-Progressive Ranged Armor,3,useful
-Progressive Magic,2,useful
+Area: Lumbridge,1,progression,Area,12850,
+Area: Lumbridge Swamp,1,progression,Area,"""12849,12593""",
+Area: HAM Hideout,1,progression,Area,12594,
+Area: Lumbridge Farms,1,progression,Area,"""12851,12595""",
+Area: South of Varrock,1,progression,Area,"""13108,12852,12596""",
+Area: East Varrock,1,progression,Area,"""13109,13110""",
+Area: Central Varrock,1,progression,Area,12853,
+Area: Varrock Palace,1,progression,Area,12854,
+Area: West Varrock,1,progression,Area,"""12598,12597""",
+Area: Edgeville,1,progression,Area,12342,
+Area: Barbarian Village,1,progression,Area,12341,
+Area: Draynor Manor,1,progression,Area,12340,
+Area: Falador,1,progression,Area,"""12084,11828""",
+Area: Dwarven Mines,1,progression,Area,"""12085,11829""",
+Area: Ice Mountain,1,progression,Area,11830,
+Area: Monastery,1,progression,Area,12086,
+Area: Falador Farms,1,progression,Area,"""12083,11827""",
+Area: Port Sarim,1,progression,Area,"""12082,12081""",
+Area: Mudskipper Point,1,progression,Area,"""11825,11824""",
+Area: Karamja,1,progression,Area,"""11569,11313""",
+Area: Crandor,1,progression,Area,"""11315,11314""",
+Area: Rimmington,1,progression,Area,"""11826,11570""",
+Area: Crafting Guild,1,progression,Area,11571,
+Area: Draynor Village,1,progression,Area,"""12338,12339""",
+Area: Wizard Tower,1,progression,Area,12337,
+Area: Corsair Cove,1,progression,Area,"""10284,10028""",
+Area: Al Kharid,1,progression,Area,"""13107,13106,13362,13105,13104""",
+Area: Citharede Abbey,1,progression,Area,"""13361,13617""",
+Area: Wilderness,1,progression,Area,"""11836,11835,11834,11833,11832,11831,12092,12091,12090,12089,12088,12087,12348,12347,12346,12345,12344,12343,12604,12603,12602,12601,12600,12599,12860,12859,12858,12857,12856,12855,13116,13115,13114,13113,13112,13111,13372,13371,13370,13369,13368,13367""",
+Progressive Armor,6,progression,Item,1452,0
+Progressive Weapons,6,progression,Item,1449,0
+Progressive Tools,6,useful,Item,1492,0
+Progressive Ranged Weapons,3,useful,Item,1465,0
+Progressive Ranged Armor,3,useful,Item,1481,0
+Progressive Magic,2,useful,Item,1450,0
