@@ -12,8 +12,8 @@ Area: Edgeville,1,progression,Area,12342,
 Area: Barbarian Village,1,progression,Area,12341,
 Area: Draynor Manor,1,progression,Area,12340,
 Area: Falador,1,progression,Area,"""12084,11828""",
-Area: Dwarven Mines,1,progression,Area,"""12085,11829""",
-Area: Ice Mountain,1,progression,Area,11830,
+Area: Dwarven Mines,1,progression,Area,"""12085,11829,11573""",
+Area: Ice Mountain,1,progression,Area,"""11830,11574""",
 Area: Monastery,1,progression,Area,12086,
 Area: Falador Farms,1,progression,Area,"""12083,11827""",
 Area: Port Sarim,1,progression,Area,"""12082,12081""",
@@ -79,8 +79,9 @@ Care Pack: 200 Iron Ore,1,useful,CarePack,1531,0
 Care Pack: 100 Coal Ore,1,useful,CarePack,1531,0
 Care Pack: 100 Raw Trout,1,useful,CarePack,1531,0
 Care Pack: 200 Leather,1,useful,CarePack,1531,0
-Care Pack: 50 Energy Potion (4),3,useful,CarePack,1531,0
+Care Pack: 50 Energy Potion (4),2,useful,CarePack,1531,0
 Care Pack: 200 Big Bones,1,useful,CarePack,1531,0
 Care Pack: 10 Each Uncut gems,1,useful,CarePack,1531,0
 Care Pack: 3 Rings of Forging,1,useful,CarePack,1531,0
 Care Pack: 500 Rune Essence,1,useful,CarePack,1531,0
+Care Pack: 200 Mind Runes,1,useful,CarePack,1531,0
