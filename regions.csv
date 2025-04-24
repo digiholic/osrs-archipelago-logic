@@ -8,7 +8,7 @@ Sourhog's Lair,Area: South of Varrock,"Lumbridge Farms West, Draynor Manor Outsk
 South of Varrock,Area: South of Varrock,"Al Kharid, West Varrock, Central Varrock, Lumberyard, Lumbridge Farms East, Lumbridge, Barbarian Village, Edgeville, Wilderness","Sheep, Bronze Ores, Iron Ore, Silver Ore, Redberry Bush, Meat, Wheat, Oak Tree, Willow Tree, Canoe Tree, Guard, Imps, Clay Ore, Duck"
 Lumberyard,Area: Lumberyard,"Wilderness, South of Varrock, Central Varrock, Varrock Palace","Guard, Bar"
 Central Varrock,Area: Central Varrock,"Varrock Palace, Lumberyard, South of Varrock, West Varrock","Mind Runes, Chisel, Anvil, Bowl, Cake Tin, Oak Tree, Barbarian, Guard, Rune Essence, Imps, Makeover, Bar"
-Varrock Palace,Area: Varrock Palace,"Wilderness, Lumberyard, Central Varrock, West Varrock","Pie Dish, Oak Tree, Zombie, Guard, Deadly Red Spider, Moss Giant, Nature Runes, Law Runes, Big Bones, Makeover"
+Varrock Palace,Area: Varrock Palace,"Wilderness, Lumberyard, Central Varrock, West Varrock","Pie Dish, Oak Tree, Zombie, Guard, Deadly Red Spider, Moss Giant, Nature Runes, Law Runes, Big Bones, Makeover, Red Spider Eggs"
 West Varrock,Area: West Varrock,"Wilderness, Varrock Palace, South of Varrock, Barbarian Village, Edgeville, Cook's Guild","Anvil, Wheat, Oak Tree, Goblin, Guard, Onion"
 Cook's Guild,Area: West Varrock*,West Varrock,"Bowl, Cooking Apple, Pie Dish, Cake Tin, Windmill"
 Edgeville,Area: Edgeville,"Wilderness, West Varrock, Barbarian Village, South of Varrock, Lumbridge","Furnace, Chisel, Bronze Ores, Iron Ore, Coal Ore, Bowl, Meat, Cake Tin, Willow Tree, Canoe Tree, Zombie, Guard, Hill Giant, Nature Runes, Law Runes, Imps, Big Bones, Limpwurt Root, Haystack"
@@ -27,7 +27,7 @@ Falador Farms,Area: Falador Farms,"Falador, Falador East Outskirts, Draynor Vill
 Port Sarim,Area: Port Sarim,"Falador Farms, Mudskipper Point, Rimmington, Karamja Docks, Crandor","Mind Runes, Shrimp Spot, Meat, Cheese, Tomato, Oak Tree, Willow Tree, Goblin, Potato"
 Karamja Docks,Area: Mudskipper Point,"Port Sarim, Karamja",
 Mudskipper Point,Area: Mudskipper Point,"Rimmington, Port Sarim","Anvil, Ice Giant, Nature Runes, Law Runes, Big Bones, Limpwurt Root"
-Karamja,Area: Karamja,"Karamja Docks, Crandor","Gold Ore, Lobster Spot, Bowl, Cake Tin, Deadly Red Spider, Imps"
+Karamja,Area: Karamja,"Karamja Docks, Crandor","Gold Ore, Lobster Spot, Bowl, Cake Tin, Deadly Red Spider, Imps, Red Spider Eggs"
 Crandor,Area: Crandor,"Karamja, Port Sarim","Coal Ore, Gold Ore, Moss Giant, Lesser Demon, Nature Runes, Law Runes, Big Bones, Limpwurt Root"
 Rimmington,Area: Rimmington,"Falador Farms, Port Sarim, Mudskipper Point, Crafting Guild Peninsula, Corsair Cove","Chisel, Bronze Ores, Iron Ore, Gold Ore, Bowl, Cake Tin, Wheat, Oak Tree, Willow Tree, Crafting Moulds, Imps, Clay Ore, Onion"
 Crafting Guild Peninsula,Area: Crafting Guild,"Falador Farms, Rimmington",Limpwurt Root

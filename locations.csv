@@ -131,7 +131,7 @@ Cry by the Members Gate to Taverley,General,Dwarven Mountain Pass,,,,EmoteInArea
 Get Prompted to Buy Membership,General,,,,,WidgetOpenTask,1439,18612228,,,,,,
 Pet the Stray Dog in Varrock,General,"Central Varrock, West Varrock, South of Varrock",,,,MenuActionTask,1439,Pet,Stray Dog,,,,,
 Get Sent to Jail in Shantay Pass,General,"Al Kharid, Port Sarim",,,,ChatMessageTask,1439,"""You find yourself in a prison.""",,,,,,
-Have the Apothecary Make a Strength Potion,General,"Central Varrock, Deadly Red Spider, Limpwurt Root",,,,UniqueTask,,,,,,,,
+Have the Apothecary Make a Strength Potion,General,"Central Varrock, Red Spider Eggs, Limpwurt Root",,,,UniqueTask,,,,,,,,
 Put a Whole Banana into a Bottle of Karamjan Rum,General,Karamja,,,,ChatMessageTask,1439,"""You stuff the banana into the neck of the bottle. You begin to wonder why.""",,,,,,
 "Attempt to Shear ""The Thing""",General,Lumbridge Farms West,,,,ChatMessageTask,1439,"""The... whatever it is... manages to get away from you!""",,,,,,
 Eat a Kebab,General,Al Kharid,,,,ChatMessageTask,1439,"""You eat the kebab.""",,,,,,
