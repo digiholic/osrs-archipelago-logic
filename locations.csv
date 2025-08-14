@@ -72,7 +72,7 @@ Catch a Swordfish,Fishing,Lobster Spot,Fishing 50,,12,ChatMessageTask,211,"""You
 Bake a Redberry Pie,Cooking,"Redberry Bush, Wheat, Windmill, Pie Dish",Cooking 10,,,ChatMessageTask,212,"""You successfully bake a delicious redberry pie.""",,,,,,
 Cook some Stew,Cooking,"Bowl, Meat, Potato",Cooking 25,,,ChatMessageTask,212,"""You cook some stew.""",,,,,,
 Bake an Apple Pie,Cooking,"Cooking Apple, Wheat, Windmill, Pie Dish",Cooking 32,,2,ChatMessageTask,212,"""You successfully bake a traditional apple pie.""",,,,,,
-Enter the Cook's Guild,Cooking,Cook's Guild,,,,StandInPositionTask,212,3143,3444,0,,,,
+Enter the Cook's Guild,Cooking,Cook's Guild,Cooking 32,,,StandInPositionTask,212,3143,3444,0,,,,
 Bake a Cake,Cooking,"Wheat, Windmill, Egg, Milk, Cake Tin",Cooking 40,,6,ChatMessageTask,212,"""You successfully bake a cake.""",,,,,,
 Bake a Meat Pizza,Cooking,"Wheat, Windmill, Cheese, Tomato, Meat",Cooking 45,,8,ChatMessageTask,212,"""You add the meat to the pizza.""",,,,,,
 Burn a Log,Firemaking,,"Firemaking 1, Woodcutting 1",,,BurnLogsTask,1,40,,,,,,
