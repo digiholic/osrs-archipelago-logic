@@ -129,7 +129,7 @@ Trans your Gender,General,Makeover,,,,VarbitChangedTask,1439,261,,,,,,
 Read a Flyer from Ali the Leaflet Dropper,General,"Al Kharid, South of Varrock",,,,ItemOperationTask,1439,Read,7922,,,,,
 Cry by the Members Gate to Taverley,General,Dwarven Mountain Pass,,,,EmoteInAreaTask,1439,Cry,2936,3454,0,2944,3449,0
 Get Prompted to Buy Membership,General,,,,,WidgetOpenTask,1439,18612228,,,,,,
-Pet the Stray Dog in Varrock,General,"Stray Dog",,,,MenuActionTask,1439,Pet,Stray Dog,,,,,
+Pet the Stray Dog in Varrock,General,Stray Dog,,,,MenuActionTask,1439,Pet,Stray Dog,,,,,
 Get Sent to Jail in Shantay Pass,General,"Al Kharid, Port Sarim",,,,ChatMessageTask,1439,"""You find yourself in a prison.""",,,,,,
 Have the Apothecary Make a Strength Potion,General,"West Varrock, Red Spider Eggs, Limpwurt Root",,,,UniqueTask,,,,,,,,
 Put a Whole Banana into a Bottle of Karamjan Rum,General,Karamja,,,,ChatMessageTask,1439,"""You stuff the banana into the neck of the bottle. You begin to wonder why.""",,,,,,
