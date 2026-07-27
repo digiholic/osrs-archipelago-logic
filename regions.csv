@@ -6,7 +6,7 @@ Lumbridge Farms West,Area: Lumbridge Farms,"Sourhog's Lair, HAM Hideout, Draynor
 Lumbridge Farms East,Area: Lumbridge Farms,"South of Varrock, Lumbridge","Meat, Egg, Milk, Willow Tree, Goblin, Imps, Potato, Tree"
 Sourhog's Lair,Area: South of Varrock,"Lumbridge Farms West, Draynor Manor Outskirts",Tree
 South of Varrock,Area: South of Varrock,"Al Kharid, West Varrock, Central Varrock, Lumberyard, Lumbridge Farms East, Lumbridge, Barbarian Village, Edgeville, Wilderness","Sheep, Bronze Ores, Iron Ore, Silver Ore, Redberry Bush, Meat, Wheat, Oak Tree, Willow Tree, Canoe Tree, Guard, Imps, Clay Ore, Duck, Goblin, Stray Dog, Tree"
-Lumberyard,Area: Lumberyard,"Wilderness, South of Varrock, Central Varrock, Varrock Palace","Guard, Bar, Tree"
+Lumberyard,Area: Lumberyard,"Wilderness, South of Varrock, Central Varrock, Varrock Palace","Guard, Bar, Tree, Plank"
 Central Varrock,Area: Central Varrock,"Varrock Palace, Lumberyard, South of Varrock, West Varrock","Mind Runes, Chisel, Anvil, Bowl, Cake Tin, Oak Tree, Barbarian, Rune Essence, Imps, Makeover, Bar, Stray Dog, Tree"
 Varrock Palace,Area: Varrock Palace,"Wilderness, Lumberyard, Central Varrock, West Varrock","Pie Dish, Oak Tree, Zombie, Guard, Deadly Red Spider, Moss Giant, Nature Runes, Law Runes, Big Bones, Makeover, Red Spider Eggs, Tree"
 West Varrock,Area: West Varrock,"Wilderness, Central Varrock, Varrock Palace, South of Varrock, Barbarian Village, Edgeville, Cook's Guild","Anvil, Wheat, Oak Tree, Goblin, Guard, Onion, Stray Dog, Tree"
@@ -38,4 +38,4 @@ Wizard Tower,Area: Wizard Tower,Draynor Village,"Lesser Demon, Rune Essence, Tre
 Corsair Cove,Area: Corsair Cove*,Rimmington,"Anvil, Meat, Limpwurt Root, Tree"
 Al Kharid,Area: Al Kharid,"South of Varrock, Citharede Abbey, Lumbridge, Port Sarim","Furnace, Chisel, Bronze Ores, Iron Ore, Silver Ore, Coal Ore, Gold Ore, Shrimp Spot, Bowl, Cake Tin, Cheese, Crafting Moulds, Imps, Tree"
 Citharede Abbey,Area: Citharede Abbey,Al Kharid,"Iron Ore, Coal Ore, Anvil, Hill Giant, Nature Runes, Law Runes, Big Bones, Limpwurt Root"
-Wilderness,Area: Wilderness,"Lumberyard, Varrock Palace, West Varrock, Edgeville, Monastery, Ice Mountain, Goblin Village, South of Varrock, Lumbridge","Furnace, Chisel, Iron Ore, Coal Ore, Anvil, Meat, Cake Tin, Cheese, Tomato, Oak Tree, Canoe Tree, Zombie, Hill Giant, Deadly Red Spider, Moss Giant, Ice Giant, Lesser Demon, Nature Runes, Law Runes, Big Bones, Limpwurt Root, Bar, Tree"
+Wilderness,Area: Wilderness,"Lumberyard, Varrock Palace, West Varrock, Edgeville, Monastery, Ice Mountain, Goblin Village, South of Varrock, Lumbridge","Furnace, Chisel, Iron Ore, Coal Ore, Anvil, Meat, Cake Tin, Cheese, Tomato, Oak Tree, Canoe Tree, Zombie, Hill Giant, Deadly Red Spider, Moss Giant, Ice Giant, Lesser Demon, Nature Runes, Law Runes, Big Bones, Limpwurt Root, Bar, Tree, Plank"
